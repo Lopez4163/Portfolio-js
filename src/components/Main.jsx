@@ -3,7 +3,7 @@ import '/Users/nico/Desktop/portfoliosite/portfolio/src/App.css'
 import { TypeAnimation } from 'react-type-animation';
 import { FaTwitter, FaFacebook, FaInstagram} from 'react-icons/fa'
 import { BsGithub } from "react-icons/bs";
-import snow from '../assets/snow.png';
+import snowImage from '../assets/snow.png';
 
 
 const Main = () => {

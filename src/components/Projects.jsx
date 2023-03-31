@@ -7,7 +7,7 @@ import ProjectItem from './ProjectItem'
 
 function Projects() {
   return (
-    <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-18'>
+    <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
       <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Programming Journey</h1>
       <p className='text-center py-8'>
         Goto you project directory by cd your-project-name. run npm run dev command 
